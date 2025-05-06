@@ -63,7 +63,7 @@ const Login = () => {
                     defaultValue="12345678"
                     label="Password"
                     name="password"
-                    type="password"
+                    type="text"
                     autocomplete="current-password"
                     placeholder="***************"
                   />
