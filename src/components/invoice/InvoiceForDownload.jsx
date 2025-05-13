@@ -345,7 +345,7 @@ const InvoiceForDownload = ({
               >
                 <Image
                   src={logoDark}
-                  alt="kachabazar"
+                  alt="SatvaCare"
                   style={{
                     width: 90,
                     alignItems: "right",
